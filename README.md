@@ -1,6 +1,6 @@
 # Few of my slides
 
-[Header image saying "Gloria's Presentation List"](https://github.com/blossomica/Presentations/blob/master/header_presentations_repo.png
+[Header image saying "Gloria's Presentation List"](https://github.com/blossomica/Presentations/blob/master/header_presentations_repo.png)
 
 Here you will find a few of the presentations/talks I have given at some conferences or other places (not all of them!)
 
