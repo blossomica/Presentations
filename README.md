@@ -6,7 +6,7 @@ Here you will find a few of the presentations/talks I have given at some confere
 
 
 ## Table of Contents
-<div style="text-align: center;">:one:</div>
+:one:
 
 :pencil: [The Struggle of Tech: Feeling Better as a Learner](https://github.com/blossomica/Presentations/blob/master/TheStruggleOfTech.pdf) - DjangoCon Europe 2017 | Florence, Italy
 
