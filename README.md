@@ -12,7 +12,7 @@ Here you will find a few of the presentations/talks I have given at some confere
 
 :link: [Talk Summary written by rixx](https://rixx.de/blog/djangocon-europe-2017-the-struggle-of-tech-feeling-better-as-a-learner/)
 
-:link: [DjangoCon Website - Talk Details | Link Dead - Retired](https://2017.djangocon.eu/schedule/the-struggle-of-tech-feeling-better-as-a-learner/)
+:no_entry: [DjangoCon Website - Talk Details | Link Dead - Retired](https://2017.djangocon.eu/schedule/the-struggle-of-tech-feeling-better-as-a-learner/)
 
 :two:
 
