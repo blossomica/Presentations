@@ -14,6 +14,8 @@ Here you will find a few of the presentations/talks I have given at some confere
 
 :no_entry: [DjangoCon Website - Talk Details | Link Dead - Retired](https://2017.djangocon.eu/schedule/the-struggle-of-tech-feeling-better-as-a-learner/)
 
+<br>
+
 :two:
 
 :pencil: [Cloud Foundry in Simple Terms: A Beginner's Journey | Slides](https://github.com/blossomica/Presentations/blob/master/CF_%20EuropePresentationFinal.pdf) - Cloud Foundry Summit Europe 2019| The Hague, Netherlands
