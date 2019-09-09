@@ -16,7 +16,7 @@ Here you will find a few of the presentations/talks I have given at some confere
 
 :two:
 
-:pencil: [Cloud Foundry in Simple Terms: A Beginner's Journey | Slides]() - Cloud Foundry Summit Europe 2019| The Hague, Netherlands
+:pencil: [Cloud Foundry in Simple Terms: A Beginner's Journey | Slides](https://github.com/blossomica/Presentations/blob/master/CF_%20EuropePresentationFinal.pdf) - Cloud Foundry Summit Europe 2019| The Hague, Netherlands
 
 
 :link: [Talk Details](https://cfeu19.sched.com/event/RBot/cloud-foundry-in-simple-terms-a-beginners-journey-gloria-dwomoh)
